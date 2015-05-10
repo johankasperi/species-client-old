@@ -1,2 +1,2 @@
-# species-client-old
-The old client of the Species project in INFO490 at UIUC.
+# species-client
+The code for the client in the species project for INFO490 at UIUC.
